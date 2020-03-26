@@ -1,0 +1,1 @@
+Create project structure with dotnet core cli.
