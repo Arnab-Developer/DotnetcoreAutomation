@@ -6,4 +6,6 @@ Here I have used .NET Core CLI and PowerShell to create a basic project structur
 
 Example use
 
-    Create-Project.ps1 -SolutionName "MySol" -WebAppName "MySol.WebApp1" -LibName "MySol.Lib1"
+```powershell
+Create-Project.ps1 -SolutionName "MySol" -WebAppName "MySol.WebApp1" -LibName "MySol.Lib1"
+```
